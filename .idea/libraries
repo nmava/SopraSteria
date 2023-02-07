@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="libraryTable">
+    <library name="jms">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/OneDrive - Universidad Politécnica de Madrid/Tercero/Primer Cuatri/Middleware/Practica/openmq5_1_1/mq/lib/jms.jar!/" />
+        <root url="jar://$USER_HOME$/OneDrive - Universidad Politécnica de Madrid/Tercero/Primer Cuatri/Middleware/Practica/openmq5_1_1/mq/lib/imq.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</project>

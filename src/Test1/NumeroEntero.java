@@ -6,12 +6,15 @@ import java.util.Scanner;
 
 public class NumeroEntero {
 
+    public NumeroEntero() {
+    }
+
     public int leerNumero(){
         int n = -1;
         Scanner reader = new Scanner(System.in);
-        System.out.println("Enter a number: ");
+        System.out.println("Introduce un numero: ");
         if (!reader.hasNextInt()) {
-            System.out.println("¡La entrada no es un número entero!");
+            System.out.println("La entrada no es un número entero");
         } else {
             n = reader.nextInt();
         }

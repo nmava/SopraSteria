@@ -3,6 +3,10 @@ package Test2;
 import java.util.Random;
 
 public class ClasificacionPersonas {
+
+    public ClasificacionPersonas() {
+    }
+
     public Persona[] leerPersonas (){
         Persona[] personas = new Persona[50];
         int edad;
